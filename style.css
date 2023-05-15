@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#hora{
+    font-size: 8rem;
+}
+#fecha{
+    font-size: 3rem;
+    margin: 0 auto;
+}
